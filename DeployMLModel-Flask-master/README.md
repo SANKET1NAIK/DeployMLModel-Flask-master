@@ -25,14 +25,5 @@ This would create a serialized version of our model into a file model.pkl
 ```
 python app.py
 ```
-By default, flask will run on port 5000.
 
-3. Navigate to URL http://127.0.0.1:5000/ (or) http://localhost:5000
-
-You should be able to view the homepage.
-
-Enter valid numerical values in all 3 input boxes and hit Predict.
-
-If everything goes well, you should  be able to see the predcited salary vaule on the HTML page!
-check the output here: http://127.0.0.1:5000/predict
 
